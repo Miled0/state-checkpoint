@@ -1,38 +1,13 @@
-.App {
+
+.App{
   text-align: center;
+  padding: 20px;
+  background-image: url("https://media.istockphoto.com/photos/full-stadium-and-neoned-colorful-flashlights-background-picture-id1276444914?b=1&k=20&m=1276444914&s=170667a&w=0&h=FKHO_16rIS7zdUYBJ0yWMa5MkcAGvgnhDiKOztsbgzg=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100%;
+ height: 753px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.profile{
+margin-top: 20px;
 }
